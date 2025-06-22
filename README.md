@@ -2,6 +2,8 @@
 
 A modern, web-based Tic Tac Toe game with a clean teal gradient interface.
 
+Check out the website link - https://naman-dixit.github.io/Tic-Tac-Toe-Game/
+
 ## Screenshots
 
 ### Game End State
